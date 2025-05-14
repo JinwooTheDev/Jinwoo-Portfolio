@@ -43,7 +43,7 @@
 ### ⚙️ [GUI/Клиент] CustomMainMenu (1.7.10)  
 Измененное главное меню и выбор сервера.  
 **Скриншоты:**  
-<img src="screenshots/custommenu.png" width="800"/>  
+<img src="screenshots/custommenu.jpg" width="800"/>  
 <img src="screenshots/custommenu-2.png" width="800"/>
 
 ---
