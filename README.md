@@ -52,8 +52,8 @@
 Измененное отображение информации об количестве игроков.
 
 **Скриншоты:**  
-<img src="screenshots/tab1.jpg" width="800"/>  
-<img src="screenshots/tab2.jpg" width="800"/>
+<img src="screenshots/tab1.png" width="800"/>  
+<img src="screenshots/tab2.png" width="800"/>
 
 ---
 
