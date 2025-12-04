@@ -51,6 +51,7 @@
 ### ⚙️ [GUI/Клиент] LoadingScreen (1.7.10)  
 Измененный экран загрузки.  
 **Скриншоты:**  
+
 <img src="screenshots/loadingscreen.jpg" width="800"/>  
 
 ---
