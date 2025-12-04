@@ -54,6 +54,16 @@
 **Скриншоты:**  
 <img src="screenshots/tab1.png" width="800"/>  
 <img src="screenshots/tab2.png" width="800"/>
+<img src="screenshots/tab-1.7.10.png" width="800"/>
+<img src="screenshots/tab-1.7.10sp.jpg" width="800"/>
+
+---
+
+### 📩 [GUI/Клиент] TabMod (1.11.2)  
+Измененное отображение информации об количестве игроков.
+
+**Скриншоты:**  
+<img src="screenshots/tab-1.11.2.jpg" width="800"/>  
 
 ---
 
