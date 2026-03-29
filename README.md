@@ -35,7 +35,7 @@
 Незаменимая механика для PvP и PvE сражений, позволяющая точно контролировать ход боя.  
 
 **Видео:**  
-<video src="videos/кастомное отображение нанесенного урона и восстановления.mp4" width="800" controls loop muted title="Демонстрация HitStats"></video>
+<video src="screenshots/кастомное отображение нанесенного урона и восстановления.mp4" width="800" controls loop muted title="Демонстрация HitStats"></video>
 
 ---
 
