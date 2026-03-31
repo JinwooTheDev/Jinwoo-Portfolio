@@ -33,7 +33,8 @@
 ### 📩 [GUI/Клиент] TabMod (1.7.10)  
 Измененное отображение информации об количестве игроков на сервере.
 
-**Видео:**  
+**Скриншот:**  
+
 <img src="screenshots/табик.png" width="800"/>  
 
 ---
@@ -43,13 +44,16 @@
 Незаменимая механика для PvP и PvE сражений, позволяющая точно контролировать ход боя.  
 
 **Видео:**  
+
 <img src="screenshots/hitstats.gif" width="800"/>
 
 ---
 
 ### 🎮 [GUI/Сервер] AuctionMod (1.7.10)  
 Система аукциона со своей валютой и кастомными уведомлениями.  
+
 **Скриншоты:**  
+
 <img src="screenshots/auction.png" width="800"/>  
 <img src="screenshots/auction-2.png" width="800"/>
 <img src="screenshots/auction-3.png" width="800"/>
@@ -57,8 +61,9 @@
 
 ---
 
-### ⚙️ [GUI/Клиент] CustomMainMenu (1.7.10)  
+### ⚙️ [GUI/Клиент] CustomMainMenu (1.7.10) 
 Измененное главное меню и выбор сервера.  
+
 **Скриншоты:**  
 <img src="screenshots/custommenu.jpg" width="800"/>  
 <img src="screenshots/custommenu-2.png" width="800"/>
@@ -67,7 +72,9 @@
 
 ### ⚙️ [GUI/Клиент-Сервер] TradeMod (1.7.10)  
 Механика внутриигрового обмена с интегрированным чатом и системой кастомной валюты.  
+
 **Скриншоты:**  
+
 <img src="screenshots/меню трейда.png" width="800"/>  
 <img src="screenshots/предложение обмена.png" width="800"/>
 
