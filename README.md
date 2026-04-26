@@ -38,9 +38,9 @@
 
 **Скриншоты:** 
 
-<img src="screenshots/chat-1.jpg‎" width="800"/>  
-<img src="screenshots/chat-2.jpg‎" width="800"/>  
-<img src="screenshots/chat-3.jpg‎" width="800"/>  
+<img src="screenshots/chat-1.jpg" width="800"/>  
+<img src="screenshots/chat-2.jpg" width="800"/>
+<img src="screenshots/chat-3.jpg" width="800"/>
 
 ---
 
